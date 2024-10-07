@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "TodoList",
+      "description": "Ce projet est une application de liste de tâches (todolist). Elle permet aux utilisateurs d'ajouter, de supprimer et de marquer des tâches comme terminées. Son design est épuré et facile à utiliser, ce qui facilite la gestion des tâches.",
+      "technologie":"ReactJS, TailwindCSS",
+      "video": "/src/assets/videos/cat-video.mp4",
+      "link": "https://lienversleprojet1.com"
+    },
+    {
+      "id": 2,
+      "name": "Electronica",
+      "description": "Ce lecteur de musique rassemble une sélection de mes morceaux préférés. On y trouve principalement des titres électro, car j'apprécie particulièrement les morceaux sans paroles, qui permettent de créer des ambiances uniques à partir de sons variés.",
+      "technologie":"ReactJS, TailwindCSS",
+      "video": "/src/assets/videos/cat-video.mp4",
+      "link": "https://lienversleprojet2.com"
+    },
+    {
+      "id": 3,
+      "name": "Chapristi",
+      "description": "Ce projet avait pour objectif d'améliorer mes compétences en affichage d'API. Cette application web présente aléatoirement des images de chats amusants. Personnellement, il m'arrive de les conserver pour mon propre plaisir !",
+      "technologie":"ReactJS, API REST",
+      "video": "/src/assets/videos/cat-video.mp4",
+      "link": "https://lienversleprojet3.com"
+    },
+    {
+      "id": 4,
+      "name": "Melody Quiz",
+      "description": "Ce quiz est conçu pour évaluer tes connaissances musicales. En le complétant, tu auras l'occasion de répondre à des questions de différents niveaux, et ton score sera affiché à la fin. N'hésite pas à le partager avec tes amis !",
+      "technologie":"ReactJS, TailwindCSS",
+      "video": "/src/assets/videos/cat-video.mp4",
+      "link": "https://lienversleprojet1.com"
+    },
+    {
+      "id": 5,
+      "name": "Pokedex",
+      "description": "Ce Pokédex est une application mobile développée avec React Native, une technologie que j'apprécie particulièrement et que je souhaitais approfondir. L'application inclut une fonctionnalité de recherche avancée, permettant aux utilisateurs de filtrer les Pokémon par types, numéros, et noms.",
+      "technologie":"React Native, API REST",
+      "video": "/src/assets/videos/cat-video.mp4",
+      "link": "https://lienversleprojet2.com"
+    },
+    {
+      "id": 6,
+      "name": "Focus Clean",
+      "description": "Focus Clean est un minuteur conçu pour aider à se concentrer sur les tâches ménagères. L'utilisateur peut choisir des durées de 15, 30 ou 60 minutes selon son niveau de motivation.",
+      "technologie":"ReactJS, TailwindCSS",
+      "video": "/src/assets/videos/cat-video.mp4",
+      "link": "https://lienversleprojet3.com"
+    }
+]

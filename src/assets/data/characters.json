@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Lidell",
+      "game": "Alice Madness Returns",
+      "picture": "/src/assets/pictures/alice.png"
+    },
+    {
+      "id": 2,
+      "name": "Ellie Williams",
+      "game": "The Last Of Us",
+      "picture": "/src/assets/pictures/ellie.png"
+    },
+    {
+      "id": 3,
+      "name": "Joel Miller",
+      "game": "The Last Of Us",
+      "picture": "/src/assets/pictures/joel.png"
+    },
+    {
+      "id": 4,
+      "name": "Paarthurnax",
+      "game": "Skyrim",
+      "picture": "/src/assets/pictures/paarthurnaax.png"
+    },
+    {
+      "id": 5,
+      "name": "Luigi",
+      "game": "Nintendo",
+      "picture": "/src/assets/pictures/luigi.png"
+    },
+    {
+      "id": 6,
+      "name": "Lady Dimitrescu",
+      "game": "Resident Evil Village",
+      "picture": "/src/assets/pictures/lady.png"
+    },
+    {
+      "id": 7,
+      "name": "Batman",
+      "game": "Arkham Asylum, Arkham City, Arkham Knight",
+      "picture": "/src/assets/pictures/batman.png"
+    }
+]
